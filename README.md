@@ -1,6 +1,6 @@
 # Loan Approval Classification
 
-Classification project (Major Project, DSBA September 2026 Batch): predict whether a loan application will be approved.
+Classification project : predict whether a loan application will be approved.
 
 **Live demo:** _add your Streamlit link here_
 
